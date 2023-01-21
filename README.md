@@ -1,3 +1,3 @@
 # A tutorial on repository
 
-# Creation of repository
+Creation of repository
